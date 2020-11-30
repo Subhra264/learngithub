@@ -126,6 +126,5 @@ input : 6
 output :
     Sorry, input is not valid
     
-    
-    Hello world!
+    Hello there!
 */
